@@ -1,0 +1,23 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.reg {
+    background-color: rgba(255, 0, 0, 0.411);
+    font-color: black;
+}
+
+.cool {
+    font-size: 22px;
+}
+
+#blue {
+    color: blue;
+    font-size:larger;
+}
+
+#green {
+    background-color: green;
+    font-weight: bold;
+    font-size: 16px;
+}
